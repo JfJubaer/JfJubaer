@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Jubaer 👋
 
-<!--
-**JfJubaer/JfJubaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | Problem Solver | Tech Enthusiast**
 
-Here are some ideas to get you started:
+I’m seeking a **Full-Stack Developer role** where I can apply my expertise in **React.js, Next.js, Node.js, and modern databases** to build scalable applications, contribute to organizational growth, and continue advancing my technical skills.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Professional Summary
+- Skilled in building **end-to-end web applications** with scalable and maintainable architectures.  
+- Experienced across **frontend, backend, databases, and DevOps tools**.  
+- Strong problem-solving mindset with solid understanding of **Data Structures & Algorithms**.  
+- Passionate about continuous learning and contributing to impactful projects.  
+
+---
+
+## ⚡ Skills
+
+**Languages:** C, Python, JavaScript, TypeScript, SQL  
+**Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS, Bootstrap, Ant Design, Material UI, Redux Toolkit, RTK Query  
+**Backend:** Node.js, Express.js, Prisma, Mongoose, REST API, Microservices  
+**Databases:** MongoDB, Firebase Database, PostgreSQL, MySQL  
+**Auth & Security:** Firebase, NextAuth.js, JWT  
+**DevOps & Tools:** Git/GitHub, Bitbucket, Jira, Postman, Cloudinary, Firebase Hosting, Vercel  
+**Others:** Problem Solving, Data Structures & Algorithms  
+
+---
+
+## 🚀 Current Focus
+- Developing **scalable full-stack applications** with Next.js & Node.js  
+- Exploring **microservices architecture & cloud deployments**  
+- Enhancing **system design & advanced backend practices**  
