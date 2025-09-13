@@ -30,3 +30,6 @@ I’m seeking a **Full-Stack Developer role** where I can apply my expertise in 
 - Developing **scalable full-stack applications** with Next.js & Node.js  
 - Exploring **microservices architecture & cloud deployments**  
 - Enhancing **system design & advanced backend practices**  
+## 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/jubaer226/) 
+- [Email](mailto:jubaerkhan226@gmail.com)
