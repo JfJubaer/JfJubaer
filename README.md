@@ -35,7 +35,7 @@
 const developer = {
   name: 'Md. Jubaer-Al-Imran Khan',
   title: 'Full-Stack Software Engineer',
-  location: 'Panchagarh, Bangladesh 🇧🇩',
+  location: 'Panchagarh, Bangladesh',
   
   expertise: [
     'React.js', 'Next.js', 'Node.js', 'Express.js', 
@@ -240,83 +240,8 @@ console.log(developer.readyToHire()); // Output: true ✅
 [![Portfolio](https://img.shields.io/badge/🚀_Complete_Portfolio-View_All_Projects-16f2b3?style=for-the-badge&logoColor=white)](https://portfoliodev-five-nu.vercel.app)
 
 
-### 📈 **Project Impact Metrics**
-
-<img src="https://img.shields.io/badge/Total_Projects-10+-brightgreen?style=for-the-badge&logo=checkmarx"/>
-<img src="https://img.shields.io/badge/Production_Apps-6+-blue?style=for-the-badge&logo=rocket"/>
-<img src="https://img.shields.io/badge/Code_Quality-A+-red?style=for-the-badge&logo=codacy"/>
-<img src="https://img.shields.io/badge/Client_Satisfaction-100%25-orange?style=for-the-badge&logo=star"/>
-
-</div>
-
----
-
-## 🏆 **What Sets Me Apart**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/engineering.png" width="60"/>
-<br><strong>Engineering Precision</strong>
-<br><small>Unique fusion of engineering logic and creative design thinking</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/puzzle.png" width="60"/>
-<br><strong>Problem Solving</strong>
-<br><small>Advanced expertise with proven system architecture design skills</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="60"/>
-<br><strong>Security Focus</strong>
-<br><small>Extensive experience crafting secure authentication systems</small>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
-<br><strong>Rapid Adaptation</strong>
-<br><small>Passionate learner who thrives in dynamic environments</small>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🚀 **Current Focus & Goals**
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🔭 Building Scalable Apps] --> B[🌱 Microservices Architecture]
-    B --> C[🎯 System Design Mastery]
-    C --> D[📚 DevOps & CI/CD]
-    D --> E[💼 Full-Stack Role]
-```
-
-</div>
-
-- 🔭 Developing **scalable full-stack applications** with Next.js & Node.js
-- 🌱 Exploring **microservices architecture** & **cloud deployments**
-- 🎯 Enhancing **system design** & **advanced backend practices**
-- 📚 Learning **DevOps tools** and **CI/CD pipelines**
-- 💼 Seeking **Full-Stack Developer** opportunities
-
----
 
 
-
-## 🏅 **GitHub Trophies**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JfJubaer&theme=radical&no-frame=true&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 💡 **Fun Facts About Me**
 
@@ -346,31 +271,17 @@ graph LR
 
 ---
 
-## 🤝 **Let's Connect & Build Something Amazing**
-
-<div align="center">
-
-I'm actively seeking **Software Engineer** or **Full-Stack Developer** roles where I can leverage my technical expertise to build innovative solutions and contribute meaningfully to organizational success.
-
-### 📫 **Get In Touch**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-16f2b3?style=for-the-badge)](https://portfoliodev-five-nu.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jubaer226/)
-[![Email](https://img.shields.io/badge/📧_Email-jubaerkhan226@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:jubaerkhan226@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Direct_Message-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801767092988)
-
 ### 💬 **Open to discuss:**
 🚀 **New Opportunities** • 💡 **Innovative Projects** • 🤝 **Collaborations** • 💻 **Tech Discussions**
 
 ---
-
 <div align="center">
 
 ### *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 **⭐ Star my repositories if you find them useful!** ⭐
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy Coding!</b></em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<em><b>Happy Coding!</b></em> 
 
 </div>
 
