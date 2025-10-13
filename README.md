@@ -80,7 +80,7 @@ console.log(developer.readyToHire()); // Output: true ✅
 <img src="https://img.shields.io/badge/Foundation-Engineering-blue?style=flat-square"/>
 </td>
 <td align="center" width="50%">
-<img src="https://img.icons8.com/fluency/96/000000/web-development.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/engineering.png" width="80"/>
 <br>
 <h3>💻 Professional Training</h3>
 <strong>Full-Stack Web Development</strong><br>
@@ -102,7 +102,7 @@ console.log(developer.readyToHire()); // Output: true ✅
 <strong>Black Hat Bucks Tech Pvt Ltd</strong><br>
 <em>Building production-ready applications & leading development initiatives</em><br><br>
 <div align="center">
-<img src="https://img.shields.io/badge/Projects-20+-green?style=for-the-badge&logo=checkmarx"/>
+<img src="https://img.shields.io/badge/Projects-3+-green?style=for-the-badge&logo=checkmarx"/>
 <img src="https://img.shields.io/badge/Team_Work-Agile-blue?style=for-the-badge&logo=jira"/>
 <img src="https://img.shields.io/badge/Impact-High-red?style=for-the-badge&logo=target"/>
 </div>
@@ -306,15 +306,7 @@ graph LR
 
 ---
 
-## 📈 **Activity Graph**
 
-<div align="center">
-
-[![Jubaer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JfJubaer&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🏅 **GitHub Trophies**
 
