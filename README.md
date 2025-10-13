@@ -11,7 +11,6 @@
 [![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubaerkhan226@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801767092988)
 
-<img src="https://komarev.com/ghpvc/?username=JfJubaer&label=Profile%20views&color=16f2b3&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -24,7 +23,7 @@
 <div align="center">
 
 ### 🌟 **Quick Highlights**
-**20+ Projects Delivered** • **3+ Years of Excellence** • **10+ Tech Mastery Areas** • **Production-Ready Applications**
+**10+ Projects Delivered** • **3+ Years of Excellence** • **10+ Tech Mastery Areas** • **Production-Ready Applications**
 
 </div>
 
