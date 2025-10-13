@@ -11,7 +11,6 @@
 [![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jubaerkhan226@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/📱_WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801767092988)
 
-<img src="https://komarev.com/ghpvc/?username=JfJubaer&label=Profile%20views&color=16f2b3&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -97,7 +96,7 @@ console.log(developer.readyToHire()); // Output: true ✅
 <table width="100%">
 <tr>
 <td align="center" width="100%">
-<img src="https://img.icons8.com/fluency/96/000000/developer.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/engineering.png" width="80"/>
 <br>
 <h3>🚀 Full-Stack Developer</h3>
 <strong>Black Hat Bucks Tech Pvt Ltd</strong><br>
@@ -156,18 +155,7 @@ console.log(developer.readyToHire()); // Output: true ✅
 
 </div>
 
----
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JfJubaer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JfJubaer&layout=compact&theme=radical&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JfJubaer&theme=radical" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
@@ -251,13 +239,6 @@ console.log(developer.readyToHire()); // Output: true ✅
 
 [![Portfolio](https://img.shields.io/badge/🚀_Complete_Portfolio-View_All_Projects-16f2b3?style=for-the-badge&logoColor=white)](https://portfoliodev-five-nu.vercel.app)
 
-**Additional Featured Work:**
-📚 **BookVibe** - Book review platform with rating system  
-🏠 **Estate Elite** - Real estate management with advanced search  
-🍕 **PizzaCraft** - Food delivery app with real-time tracking  
-💻 **DevConnect** - Professional networking platform for developers  
-
----
 
 ### 📈 **Project Impact Metrics**
 
