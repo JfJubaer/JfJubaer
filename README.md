@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Add your custom banner here -->
-<img src="https://your-banner-url.com/banner.gif" alt="Jubaer's GitHub Banner" width="100%" height="300"/>
+<img src="[https://your-banner-url.com/banner.gif](https://www.canva.com/design/DAG1q0O_RQk/bT4l72Ck-tL9OhVsVGzVvw/edit?utm_content=DAG1q0O_RQk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" alt="Jubaer's GitHub Banner" width="100%" height="300"/>
 
 # 👋 Hi there, I'm **Md. Jubaer-Al-Imran Khan**! 
 ### 🚀 Full-Stack Software Engineer | 💻 MERN Stack Specialist | ⚡ Building Scalable Solutions
