@@ -64,29 +64,53 @@ console.log(developer.readyToHire()); // Output: true ✅
 
 ## 🚀 **Professional Journey**
 
-<table>
+<div align="center">
+
+### 🎓 **Education & Certifications**
+
+<table width="100%">
 <tr>
-<td width="50%">
-
-### 🎓 **Education**
-- **B.Sc. in Electrical & Electronic Engineering (EEE)**  
-  *Hajee Mohammad Danesh Science & Technology University*
-- **Full-Stack Web Development**  
-  *Programming Hero (Batch-6)*
-
+<td align="center" width="50%">
+<img src="https://img.icons8.com/fluency/96/000000/engineering.png" width="80"/>
+<br>
+<h3>🎓 Bachelor's Degree</h3>
+<strong>Electrical & Electronic Engineering (EEE)</strong><br>
+<em>Hajee Mohammad Danesh Science & Technology University</em><br>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Foundation-Engineering-blue?style=flat-square"/>
 </td>
-<td width="50%">
-
-### 💼 **Experience**
-- **Full-Stack Developer**  
-  *Black Hat Bucks Tech Pvt Ltd*
-- **20+ Production Projects**
-- **Real-world Application Development**
-- **Professional Team Collaboration**
-
+<td align="center" width="50%">
+<img src="https://img.icons8.com/fluency/96/000000/web-development.png" width="80"/>
+<br>
+<h3>💻 Professional Training</h3>
+<strong>Full-Stack Web Development</strong><br>
+<em>Programming Hero (Batch-6)</em><br>
+<img src="https://img.shields.io/badge/Status-Certified-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-MERN_Stack-orange?style=flat-square"/>
 </td>
 </tr>
 </table>
+
+### 💼 **Professional Experience**
+
+<table width="100%">
+<tr>
+<td align="center" width="100%">
+<img src="https://img.icons8.com/fluency/96/000000/developer.png" width="80"/>
+<br>
+<h3>🚀 Full-Stack Developer</h3>
+<strong>Black Hat Bucks Tech Pvt Ltd</strong><br>
+<em>Building production-ready applications & leading development initiatives</em><br><br>
+<div align="center">
+<img src="https://img.shields.io/badge/Projects-20+-green?style=for-the-badge&logo=checkmarx"/>
+<img src="https://img.shields.io/badge/Team_Work-Agile-blue?style=for-the-badge&logo=jira"/>
+<img src="https://img.shields.io/badge/Impact-High-red?style=for-the-badge&logo=target"/>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -131,7 +155,84 @@ console.log(developer.readyToHire()); // Output: true ✅
 
 </div>
 
+---
 
+
+
+## 🎨 **Featured Projects Showcase**
+
+<div align="center">
+
+### 🌟 **My Best Work - Live Projects**
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 🚀 **BookVibe - Book Review Platform**
+<img src="https://img.icons8.com/fluency/96/000000/book.png" width="80"/>
+
+**📚 A comprehensive book review and rating platform**
+
+**🔧 Tech Stack:**
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js  
+- Database: MongoDB
+- Authentication: JWT
+
+**✨ Key Features:**
+- 📖 Book catalog with detailed reviews
+- ⭐ Rating and review system
+- 🔐 User authentication
+- 📱 Responsive design
+- 🔍 Advanced search functionality
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-16f2b3?style=for-the-badge)](https://book-vibe-nine-xi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/📱_Client_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/JfJubaer/book-vibe)
+
+</td>
+<td width="50%" align="center">
+
+### 🏠 **Estate Elite - Real Estate Platform**
+<img src="https://img.icons8.com/fluency/96/000000/real-estate.png" width="80"/>
+
+**🏡 Modern real estate management system**
+
+**🔧 Tech Stack:**
+- Frontend: React.js, Material UI
+- Backend: Node.js, Express.js
+- Database: PostgreSQL
+- Authentication: Firebase Auth
+
+**✨ Key Features:**
+- 🏘️ Property listings management
+- 💰 Advanced filtering & search
+- 📍 Location-based mapping
+- 👤 User profiles & favorites
+- 📊 Analytics dashboard
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-16f2b3?style=for-the-badge)](https://realstate-website-assignment.web.app/)
+[![GitHub](https://img.shields.io/badge/📱_Client_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/JfJubaer/realstate-website)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎯 **More Projects In My Portfolio**
+
+[![Portfolio](https://img.shields.io/badge/🚀_View_All_Projects-Portfolio-16f2b3?style=for-the-badge&logoColor=white)](https://portfoliodev-five-nu.vercel.app)
+
+**Additional Featured Projects:**
+🍕 **PizzaCraft** - Pizza delivery app with real-time tracking  
+💻 **DevConnect** - Developer networking platform  
+📱 **TaskMaster** - Project management tool  
+🛒 **ShopEase** - E-commerce platform with payment gateway  
+
+</div>
 
 ---
 
@@ -168,26 +269,6 @@ console.log(developer.readyToHire()); // Output: true ✅
 
 ---
 
-## 🎨 **Portfolio Showcase**
-
-<div align="center">
-
-### 🌟 **My Complete Portfolio Website**
-*Built with React.js, Tailwind CSS, and modern animations*
-
-[![Portfolio Screenshot](https://img.shields.io/badge/🚀_View_Live_Portfolio-Click_Here-16f2b3?style=for-the-badge&logoColor=white)](https://portfoliodev-five-nu.vercel.app)
-
-**Features:**
-✅ Responsive Design  
-✅ Interactive Animations  
-✅ Dynamic Skill Gauges  
-✅ Project Showcases  
-✅ Contact Integration  
-
-</div>
-
----
-
 ## 🚀 **Current Focus & Goals**
 
 <div align="center">
@@ -210,7 +291,15 @@ graph LR
 
 ---
 
+## 📈 **Activity Graph**
 
+<div align="center">
+
+[![Jubaer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JfJubaer&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
 
 ## 🏅 **GitHub Trophies**
 
