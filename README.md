@@ -132,18 +132,7 @@ console.log(developer.readyToHire()); // Output: true ✅
 
 </div>
 
----
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JfJubaer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JfJubaer&layout=compact&theme=radical&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JfJubaer&theme=radical" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
@@ -222,15 +211,7 @@ graph LR
 
 ---
 
-## 📈 **Activity Graph**
 
-<div align="center">
-
-[![Jubaer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JfJubaer&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🏅 **GitHub Trophies**
 
