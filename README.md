@@ -57,6 +57,7 @@ console.log(developer.readyToHire()); // true ✅
 ## 💼 Professional Journey
 
 ### 🎓 Education & Certifications
+- Master’s in Computer Science & Engineering (EEE) — HSTU (Ongoing)
 - Bachelor’s in Electrical & Electronic Engineering (EEE) — HSTU
 - Full-Stack Web Development — Programming Hero (Batch-6)
 
@@ -112,9 +113,26 @@ console.log(developer.readyToHire()); // true ✅
 ## 🎨 Featured Projects
 
 <!-- Clean, card-like sections without heavy tables -->
-<div align="center">
+<div >
+ Repository | visit site
 
-### 🛒 Spiderpie — Multivendor E-commerce Platform
+Technologies: 
+
+### 💅 Wisdora – Online Learning Management System (Personal)
+Robust, scalable MERN e-commerce platform with seller dashboard and secure auth.  
+Tech: Next.js, Express.js, Material UI, Redux toolkit, Mongoose, MongoDB, JWT, Axios
+- Developed responsive frontend using Next.js, Material UI, Tailwind CSS, and Redux Toolkit
+- Built secure REST APIs with Express.js, MongoDB, and JWT Authentication
+- Integrated features like course enrollment, wishlist, analytics, file upload with Cloudinary,
+and role-based dashboard access
+- Full-stack e-learning platform where students can enroll in courses, teachers can manage
+content, and admins can monitor the system.
+🔗 Live: https://wisdora-client.vercel.app/
+🔗 Repo: https://github.com/JfJubaer/Wisdora
+
+---
+
+### 🛒 Spiderpie — Multivendor E-commerce Platform (Freelance)
 Robust, scalable MERN e-commerce platform with seller dashboard and secure auth.  
 Tech: Next.js, Material UI, Redux Toolkit, Node.js, Express.js, MongoDB
 - Seller Dashboard for product and order management
@@ -125,7 +143,7 @@ Tech: Next.js, Material UI, Redux Toolkit, Node.js, Express.js, MongoDB
 
 ---
 
-### 🚗 Go With Car — Car Rental Service Platform
+### 🚗 Go With Car — Car Rental Service Platform (Official)
 Modern rental platform enabling nationwide car bookings.  
 Tech: React, Ant Design, Redux, Node.js, Express.js, Firebase
 - Real-time Vehicle Availability & Booking
