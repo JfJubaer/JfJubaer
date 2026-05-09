@@ -114,9 +114,6 @@ console.log(developer.readyToHire()); // true ✅
 
 <!-- Clean, card-like sections without heavy tables -->
 <div >
- Repository | visit site
-
-Technologies: 
 
 ### 📚 Wisdora – Online Learning Management System (Personal)
 Robust, scalable MERN e-commerce platform with seller dashboard and secure auth.  
