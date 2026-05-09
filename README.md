@@ -57,7 +57,7 @@ console.log(developer.readyToHire()); // true ✅
 ## 💼 Professional Journey
 
 ### 🎓 Education & Certifications
-- Master’s in Computer Science & Engineering (EEE) — HSTU (Ongoing)
+- Master’s in Computer Science & Engineering (EEE) — HSTU (On going)
 - Bachelor’s in Electrical & Electronic Engineering (EEE) — HSTU
 - Full-Stack Web Development — Programming Hero (Batch-6)
 
