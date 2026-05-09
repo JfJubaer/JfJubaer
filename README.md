@@ -116,7 +116,7 @@ console.log(developer.readyToHire()); // true ✅
 <div >
 
 ### 📚 Wisdora – Online Learning Management System (Personal)
-Robust, scalable MERN e-commerce platform with seller dashboard and secure auth.  
+
 Tech: Next.js, Express.js, Material UI, Redux toolkit, Mongoose, MongoDB, JWT, Axios
 - Developed responsive frontend using Next.js, Material UI, Tailwind CSS, and Redux Toolkit
 - Built secure REST APIs with Express.js, MongoDB, and JWT Authentication
@@ -131,23 +131,27 @@ content, and admins can monitor the system.
 ---
 
 ### 🛒 Spiderpie — Multivendor E-commerce Platform (Freelance)
-Robust, scalable MERN e-commerce platform with seller dashboard and secure auth.  
+
 Tech: Next.js, Material UI, Redux Toolkit, Node.js, Express.js, MongoDB
 - Seller Dashboard for product and order management
 - Secure JWT Authentication
 - Real-time Inventory and Advanced Search
 - Responsive UI optimized for performance  
+- Robust, scalable MERN e-commerce platform with seller dashboard and secure auth
+
 🔗 Live: https://spiderpie.com/
 
 ---
 
 ### 🚗 Go With Car — Car Rental Service Platform (Official)
-Modern rental platform enabling nationwide car bookings.  
+  
 Tech: React, Ant Design, Redux, Node.js, Express.js, Firebase
 - Real-time Vehicle Availability & Booking
 - Location-based Service Coverage
 - Streamlined Booking Workflow
-- Responsive and Mobile-first UI  
+- Responsive and Mobile-first UI 
+- Modern rental platform enabling nationwide car bookings
+
 🔗 Live: https://gowithcar.com/
 
 </div>
