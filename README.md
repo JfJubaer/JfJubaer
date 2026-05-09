@@ -118,7 +118,7 @@ console.log(developer.readyToHire()); // true ✅
 
 Technologies: 
 
-### 💅 Wisdora – Online Learning Management System (Personal)
+### 📚 Wisdora – Online Learning Management System (Personal)
 Robust, scalable MERN e-commerce platform with seller dashboard and secure auth.  
 Tech: Next.js, Express.js, Material UI, Redux toolkit, Mongoose, MongoDB, JWT, Axios
 - Developed responsive frontend using Next.js, Material UI, Tailwind CSS, and Redux Toolkit
@@ -127,6 +127,7 @@ Tech: Next.js, Express.js, Material UI, Redux toolkit, Mongoose, MongoDB, JWT, A
 and role-based dashboard access
 - Full-stack e-learning platform where students can enroll in courses, teachers can manage
 content, and admins can monitor the system.
+
 🔗 Live: https://wisdora-client.vercel.app/
 🔗 Repo: https://github.com/JfJubaer/Wisdora
 
